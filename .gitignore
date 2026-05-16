@@ -1,0 +1,10 @@
+﻿venv/
+.env
+client_secrets.json
+__pycache__/
+*.pyc
+.pytest_cache/
+get_token.py
+test_env.py
+test_ads.py
+create_test_account.py
